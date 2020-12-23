@@ -2,7 +2,7 @@
 
 Puedes ver el comando creado al ver la lista de comandos de artisan "categorias:ventas", acepta 2 parametros "path" y el directorio raiz esta apuntando a la carpeta "app".
 
-- php artisan categorias:ventas Console\Commands\Hoja-de-clculo-sin-ttulo.csv Console\Commands\categoria_data.json.
+- php artisan categorias:ventas Console\Commands\Hoja-de-cálculo-sin-título.csv Console\Commands\categoria_data.json
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
